@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Little Crafted Pieces",
-    "currentPage": "pricing.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1719,7 +1719,7 @@
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "https://www.littlecraftedpieces.com/index.html",
-        "meta_image": "@PROJECT_PATH@/assets/images/133866-2000x1250.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/little%20crafted%20pieces-logos_blknwht-1200x1200.jpg"
       },
       "components": [
         {
