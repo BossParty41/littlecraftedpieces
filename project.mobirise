@@ -81,7 +81,7 @@
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "gallery.html": {
