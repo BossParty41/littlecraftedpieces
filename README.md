@@ -1,2 +1,0 @@
-# littlecraftedpieces
-GitHub Pages
