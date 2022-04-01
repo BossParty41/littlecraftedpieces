@@ -80,7 +80,8 @@
       "textButton": "Agree"
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": false
   },
   "pages": {
     "home.html": {
