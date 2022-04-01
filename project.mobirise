@@ -1714,10 +1714,12 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Littlecraftedpieces.com",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/little%20crafted%20pieces-logos_transparent-1200x1200.png"
       },
       "components": [
         {
