@@ -57,7 +57,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
       }
     ],
-    "uniqCompNum": 52,
+    "uniqCompNum": 57,
     "versionPublish": "5.6.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -87,7 +87,7 @@
     "gallery.html": {
       "settings": {
         "title": "Gallery",
-        "order": 1,
+        "order": 2,
         "meta_descr": "Display of My Art Pieces"
       },
       "components": [
@@ -1474,7 +1474,7 @@
     "pricing.html": {
       "settings": {
         "title": "Pricing",
-        "order": 3,
+        "order": 4,
         "meta_descr": ""
       },
       "components": [
@@ -1992,8 +1992,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "Littlecraftedpieces.com",
+        "title": "Littlecraftedpieces.com",
+        "meta_descr": "Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2545,7 +2545,7 @@
     "page3.html": {
       "settings": {
         "title": "Commission Information",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3064,7 +3064,7 @@
           },
           "_name": "content5",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>I Do NOT Do The Following</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">-I do NOT draw any NSFW, Violence, Guns, Hateful, Racist emotes.<br><br>-I do NOT draw any Political, Religion, or Sexual Orientation emotes. My emotes are made for <b>expression</b> only. I can color hearts in different solid colors (such as a yellow heart, green heart, purple heart, etc.).<br><br>-I do NOT do animations of any kind (this may change in the future). If you are wanting an open and closed emote to animate yourself with your own software, it will cost an extra $5 per emote.<br><br>-I do NOT sale any pre-made bundles. These are custom emotes to look like you and I feel bundles are the same emotes with different colors that another customer is going to have. I want my customers to have their own special emotes.<br><br>-I do NOT trace or copy any other artist's work.<br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>I Do NOT Do The Following</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">-I do NOT draw any NSFW, Violence, Guns, Hateful, Racist emotes.<br><br>-I do NOT draw any Political, Religion, or Sexual Orientation emotes. My emotes are made for <b>expression</b> only. I can color hearts in different solid colors (such as a yellow heart, green heart, purple heart, etc.).<br><br>-I do NOT do animations of any kind (this may change in the future). If you are wanting an open and closed emote to animate yourself with your own software, it will cost an extra $5 per emote.<br><br>-I do NOT sale any pre-made bundles. These are custom emotes to look like you and I feel bundles are the same emotes with different colors that another customer is going to have. I want my customers to have their own special emotes.<br><br>-I do NOT trace or copy any other artist's work.<br><br>-I do NOT share ANY information about my customers. If they want to share about themselves then they can do it themselves, or if they want to refer me to someone they know that is fine too.&nbsp;<br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "t2UZI5dxRo",
           "_anchor": "content5-1c",
           "_protectedParams": [],
@@ -3084,7 +3084,7 @@
           },
           "_name": "content5",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Extra Notes</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">-If you paid in full up front and no longer wish to continue with my services after I have completed the reference emote but <b>no further emotes have been done</b>, I will give you a <b>full refund</b>.<br><br>-If you have paid, and <b>approved </b>my reference emote, and know that I am in the <b>process </b>or have <b>completed </b>an emote for you, <b>no refund</b> shall be given. It would be time lost and unfair to other customers that could have had their emotes completed.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Extra Notes</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">-If you paid in full up front and no longer wish to continue with my services after I have completed the reference emote but <b>no further emotes have been done</b>, I will give you a <b>full refund</b>.<br><br>-If you have paid, and <b>approved </b>my reference emote, and know that I am in the <b>process </b>or have <b>completed </b>an emote for you, <b>no refund</b> shall be given. It would be time lost and unfair to other customers that could have had their emotes completed.<br><br>-If you decide to commission me for emotes, I will display the emotes on my <a href=\"gallery.html#top\" class=\"text-primary\" target=\"_blank\">Gallery</a> page.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "t2V66SckSe",
           "_anchor": "content5-1f",
           "_protectedParams": [],
