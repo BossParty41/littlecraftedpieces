@@ -1121,7 +1121,7 @@ a {
   text-align: left;
 }
 .cid-s48MCQYojq {
-  background-image: url("../../../assets/images/133866-2000x1250.png");
+  background-image: url("../../../assets/images/banner-for-website-1-1800x600.png");
 }
 .cid-s48MCQYojq .mbr-section-title {
   text-align: center;
@@ -1151,7 +1151,7 @@ a {
   text-align: left;
 }
 .cid-s48upRUlSD {
-  padding-top: 0rem;
+  padding-top: 1rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
@@ -1167,7 +1167,7 @@ a {
   width: 100%;
 }
 .cid-to1qOQCeFp {
-  padding-top: 3rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -1549,6 +1549,52 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-tOUEZ6Ofi3 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tOUEZ6Ofi3 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tOUEZ6Ofi3 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tOUEZ6Ofi3 .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-tOUEZ6Ofi3 .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-tOUEZ6Ofi3 .bg-twitch {
+  background: #9146ff;
+  color: #ffffff;
+}
+.cid-tOUEZ6Ofi3 .bg-twitch:hover {
+  background: #7313ff;
+}
+.cid-tOUEZ6Ofi3 .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-tOUEZ6Ofi3 [class^="socicon-"]:before,
+.cid-tOUEZ6Ofi3 [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
 }
 .cid-sZ39zviGs1 .navbar-dropdown {
   position: relative !important;
